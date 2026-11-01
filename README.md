@@ -8,7 +8,7 @@ A collection of CS 405 coursework artifacts covering buffer overflow, SQL inject
 | --- | --- | --- |
 | Buffer overflow | [Buffer overflow code files](Software_Testing_and_Debugging_Projects/Buffer_Overflow.zip) | ZIP |
 | SQL injection | [SQL injection code files](Software_Testing_and_Debugging_Projects/SQL_Injection.zip) | ZIP |
-| Encryption | [Encryption code files](Software_Testing_and_Debugging_Projects/Encryption.zip) | ZIP |
+| Encryption | [Encryption Tool (C++)](Encryption_Tool_Cpp/Encryption_Tool_Cpp.zip) | ZIP |
 | Reflection | [Module 7 journal](Software_Testing_and_Debugging_Projects/Secure_Coding_Reflection.docx) | Word document |
 | Presentation | [Project Two presentation](Software_Testing_and_Debugging_Projects/Security_Presentation.pptx) | PowerPoint |
 | Security policy | [Security policy document](Software_Testing_and_Debugging_Projects/Security_Policy.docx) | Word document |
